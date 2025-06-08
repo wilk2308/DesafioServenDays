@@ -1,0 +1,9 @@
+# Ignorar arquivos de configuração do Visual Studio
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+# Build
+bin/
+obj/

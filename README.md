@@ -54,8 +54,24 @@ Desenvolver uma aplicação interativa onde o jogador pode conhecer e interagir 
 - API Externa: [PokéAPI](https://pokeapi.co/)
 - Arquitetura: **MVC (Model-View-Controller)**
 - Terminal Interativo
-- Biblioteca: **AutoMapper** (Dia 6)
 - Boas práticas de código e estrutura
+
+---
+
+## 📚 Bibliotecas utilizadas
+
+- **RestSharp** – Consumo de APIs REST (Dia 1)
+- **System.Text.Json** – Serialização/Deserialização de JSON (Dia 2)
+- **AutoMapper** – Mapeamento automático entre objetos (Dia 6)
+
+---
+
+## 🧠 Funcionalidades até agora
+
+- Listagem de Pokémons usando a PokeAPI
+- Exibição de detalhes (nome, altura, peso e habilidades)
+- Escolha de Pokémon pelo usuário
+- Uso de `UpperFirst` para deixar nomes formatados
 
 ---
 
@@ -63,12 +79,12 @@ Desenvolver uma aplicação interativa onde o jogador pode conhecer e interagir 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/wilk2308/DesafioServenDays.git
    ```
 
 2. Acesse o diretório:
    ```bash
-   cd nome-do-repositorio
+   cd DesafioServenDays
    ```
 
 3. Execute o projeto:
@@ -93,10 +109,7 @@ Durante essa jornada, aprofundei meus conhecimentos em:
 
 ## ✨ Autor
 
-Desenvolvido por **[Seu Nome]**  
+Desenvolvido por **Will**  
 🔗 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
-📧 seu.email@example.com
 
 ---
-
-> *“Gotta code 'em all!” — Desenvolvedor Pokémon*
